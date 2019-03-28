@@ -1,0 +1,41 @@
+body {
+	background-image: url("../Pictures/watercolor3.jpg")
+}
+
+h1,h2,p,li,ul, table, i, b {
+	background-color: antiquewhite;
+	text-align: center;
+	margin: 25px 50px 75px 100px;
+}
+
+p, body, table {
+	margin: 25px 50px 75px 100px;
+  }
+
+a:hover {
+	background-color: white;
+	cursor: pointer;
+}
+
+img {
+	border-radius: 20%;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+  	width: 20%;
+  }
+
+  .red {
+	  text-align: center;
+	  background-color: antiquewhite;
+	  margin: 25px 50px 75px 100px;
+  }
+
+#table {
+	text-align: center:
+	margin: 25px 50px 75px 100px;
+}
+
+.top {
+	background-position: center;
+}
