@@ -1,0 +1,66 @@
+<style type="text/css">
+
+{overflow-x: hidden;
+background: transparent url(pattern2.jpeg) no-repeat ; 
+}
+
+body{
+	background-color:white;
+}
+.blue {
+	text-align: center;
+	background-color: green;
+	font-family: 'PT Sans', sans-serif;
+}
+
+
+.container {
+
+display: grid;
+grid-template-areas:
+		  "header header header"
+		  "aside  aside  aside"
+		  "main   main   main"
+		  "footer footer footer";
+
+
+ }
+
+h2 {
+ 	
+padding-left: 5px;
+color: black;    
+background: transparent url(soccerbackground.jpg) no-repeat ;
+border: 1px solid white;
+color: white ;
+border-radius: 50px;
+background-size: 500px;
+box-sizing: content-box;
+width: 485px;
+font-family: 'PT Sans', sans-serif;
+ }
+ 
+ h3 {
+ 	text-align: center;
+ }
+ .twoo {
+ 	background-color: white;
+ }
+ .threee { background-color: white; }
+ .fourr { background-color: white; }
+ .fivee {background-color:white;}
+ .sixx { background-color: white; }
+ footer {
+ 	background-color: green;
+ }
+ img {
+ 	padding-left: 680px;
+ }
+ h1 {
+ 	text-align: center;
+ 	font-family: 'PT Sans', sans-serif;
+ }
+ p{
+ 	font-family: 'PT Sans', sans-serif;
+ 	font-size: 115%;
+ }

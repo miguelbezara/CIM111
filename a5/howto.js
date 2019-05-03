@@ -1,0 +1,41 @@
+	<script type="text/javascript">
+$(document).ready(function(){
+  $("#hide").click(function(){
+    $("#one").hide();
+  });
+  $("#show").click(function(){
+    $("#one").show();
+  });
+});
+$(document).ready(function(){
+  $("#hide1").click(function(){
+    $("#two").hide();
+  });
+  $("#show1").click(function(){
+    $("#two").show();
+  });
+});
+$(document).ready(function(){
+  $("#hide2").click(function(){
+    $("#three").hide();
+  });
+  $("#show2").click(function(){
+    $("#three").show();
+  });
+});
+$(document).ready(function(){
+  $("#hide3").click(function(){
+    $("#four").hide();
+  });
+  $("#show3").click(function(){
+    $("#four").show();
+  });
+});
+$(document).ready(function(){
+  $("#hide4").click(function(){
+    $("#five").hide();
+  });
+  $("#show4").click(function(){
+    $("#five").show();
+  });
+});
